@@ -8,3 +8,4 @@ number=(6)
 console.log(number)
 let x=[7]
 console.log(x)
+//append(python)=push(js)
